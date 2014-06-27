@@ -2254,6 +2254,10 @@ border:1px solid #eee;
    height:150px;
 }
 
+.panel-group {
+  margin-bottom: 5px;
+}
+
 /* PrettyPhoto */
 
 div.ppt {
