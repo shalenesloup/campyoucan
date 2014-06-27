@@ -1,0 +1,38 @@
+Changelog:
+----------
+
+Version 2.0:
+------------
+* Updated Bootstrap to version 3.1.1.
+* Updated jQuery to latest version.
+* Scroll to top bug fixed. (custom.js)
+* Google font links removed from html files and added in stylesheet. (all .html, style.css)
+* Bug fix in carousel slider.(index.html, index-navbar.html)
+
+
+Version 1.9:
+-----------
+* Added alternative navbar (index-navbar.html and style.css)
+
+Version 1.8:
+------------
+* Recent post carousel got updated. Removed CaroFredSel plugin and using default bootstrap carousel plugin. (index.html, style.css, custom.js)
+
+Version 1.7:
+------------
+* Transition bug fix. (style.css)
+
+Version 1.6:
+------------
+* Revolution slider fix. (index.html & style.css)
+
+Version 1.5:
+-----------
+* Removed hover animations from multiple sections. (html files and style.css)
+* Removed waypoint + animate.css effects from multiple sections. (html files & style.css)
+* Bugs fixed in Revolution slider. (index.html, custom.js, style.css)
+* Big size images are compressed.
+
+Verion 1.0:
+-----------
+* Initial Release

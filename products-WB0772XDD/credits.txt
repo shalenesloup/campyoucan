@@ -1,0 +1,15 @@
+Credits:
+--------
+Bootstrap - http://getbootstrap.com
+jQuery - http://jquery.com
+HTML5Shiv - @afarkas @jdalton @jon_neal @rem
+Respond - Authors & copyright (c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas.
+Pattern - http://subtlepatterns.com/
+Photos - http://fotogrph.com/ & http://pixabay.com
+Isotope - http://isotope.metafizzy.co/
+Prettyphoto - http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
+Font awesome icon - http://fortawesome.github.io/Font-Awesome/
+Animate CSS - http://daneden.me/animate/
+jQuery Countdown - http://keith-wood.name/countdown.html
+Revolution slider - http://codecanyon.net/item/slider-revolution-responsive-jquery-plugin/2580848
+Waypoints - https://github.com/imakewebthings/jquery-waypoints/
